@@ -1,0 +1,52 @@
+{
+  "template": "Papercut",
+  "format": "9:16",
+  "clips": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "source": "exterior.mp4",
+      "tag": "exterior"
+    },
+    {
+      "start": 1.4,
+      "end": 3.0,
+      "source": "owner.mp4",
+      "tag": "owner"
+    },
+    {
+      "start": 3.0,
+      "end": 4.2,
+      "source": "food-closeup.mp4",
+      "tag": "food-closeup"
+    },
+    {
+      "start": 4.2,
+      "end": 6.0,
+      "source": "customer.mp4",
+      "tag": "customer"
+    }
+  ],
+  "text_cues": [
+    {
+      "content": "Surinaamse smaken in hartje Almere",
+      "start": 0.6,
+      "end": 5.6,
+      "kind": "headline"
+    },
+    {
+      "content": "Bestel vandaag",
+      "start": 4.4,
+      "end": 6.0,
+      "kind": "cta"
+    }
+  ],
+  "music": {
+    "style": "upbeat tropical / urban",
+    "bpm": 105,
+    "file": "music_placeholder.m4a"
+  },
+  "logo": "logo.png",
+  "business_name": "Suriname Kitchen",
+  "text_style": "boxed"
+}
